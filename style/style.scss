@@ -1,0 +1,18 @@
+@import url("https://fonts.cdnfonts.com/css/sf-pro-display");
+@import url("https://db.onlinewebfonts.com/c/5dd039d5b7942caa5edb325265ba72d1?family=Nympha+Trial)");
+@import url("https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap");
+@import "_main";
+@import "_header";
+@import "_footer";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.desktop {
+  background-color: #030303;
+  margin: 0 auto;
+  width: 1440px;
+}

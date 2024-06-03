@@ -1,0 +1,60 @@
+header {
+  padding-right: 87px;
+  padding-left: 87px;
+  .nav {
+    padding-top: 53px;
+    display: flex;
+    justify-content: space-between;
+    a {
+      color: #f2f2f2;
+      font-weight: 500;
+      font-size: 18px;
+      line-height: 21px;
+      text-transform: uppercase;
+      font-family: "SF Pro Display", sans-serif;
+    }
+  }
+  .hero_wr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 234px;
+    position: relative;
+    h1 {
+      position: absolute;
+      top: 100px;
+      color: rgb(255, 255, 255);
+      font-family: "Nympha Trial";
+      font-size: 220px;
+      font-weight: 400;
+      line-height: 259px;
+      text-align: center;
+    }
+  }
+  .info_wr {
+    padding-top: 93px;
+    display: flex;
+    justify-content: space-evenly;
+    p {
+      color: rgb(214, 208, 206);
+      font-family: "DM Mono", monospace;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 19px;
+      text-align: center;
+      text-transform: uppercase;
+    }
+    h2 {
+      color: rgb(214, 208, 206);
+      font-family: "Nympha Trial";
+      font-size: 24px;
+      font-weight: 400;
+      line-height: 29px;
+      text-align: center;
+    }
+  }
+  .woman {
+    padding-top: 274px;
+    margin-bottom: 177px;
+  }
+}
